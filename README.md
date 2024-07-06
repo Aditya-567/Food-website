@@ -1,7 +1,17 @@
 # Food-wesite
 This mobile-responsive food ordering app allows users to browse a variety of food items and seamlessly add them to their cart. With intuitive navigation and real-time updates, users can increment or decrement item quantities and remove items as needed. The app features a sleek design with a timer to track time spent on the page or for order preparation, enhancing the user experience. A review system is integrated to collect and display customer feedback. Tailwind CSS and React ensure fast, responsive, and efficient performance across all devices.
 
-# Download the app
+### Tech Stack
+
+#### Frontend
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=font-awesome&logoColor=white)
+- ![React Context API](https://img.shields.io/badge/React_Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![classnames](https://img.shields.io/badge/classnames-000000?style=for-the-badge&logo=npm&logoColor=white)
+- ![React Router Dom](https://img.shields.io/badge/React_Router_Dom-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
 # Install Pacakages
     npm i or mpn install
 
