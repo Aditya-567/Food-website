@@ -1,2 +1,2 @@
 # Food-wesite
-This mobile-responsive food ordering app allows users to browse a variety of food items and seamlessly add them to their cart. With intuitive navigation and real-time updates, 
+This mobile-responsive food ordering app allows users to browse a variety of food items and seamlessly add them to their cart. With intuitive navigation and real-time updates, users can increment or decrement item quantities and remove items as needed. The app features a sleek design with a timer to track time spent on the page or for order preparation, enhancing the user experience. A review system is integrated to collect and display customer feedback. Tailwind CSS and React ensure fast, responsive, and efficient performance across all devices.
