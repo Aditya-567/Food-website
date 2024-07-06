@@ -3,11 +3,12 @@ This mobile-responsive food ordering app allows users to browse a variety of foo
 
 # Download the app
 # Install Pacakages
-  npm i or mpn install
+    npm i or mpn install
 
 # Run the App
-  npm run dev
+    npm run dev
 
+# App ->
 <p align="center">
   <img src="https://github.com/Aditya-567/Food-wesite/assets/106132841/c98ebf84-a43f-49c3-b87a-92196f8580d7" width="300" />
   <img src="https://github.com/Aditya-567/Food-wesite/assets/106132841/385e411e-e7b4-4c76-a832-74bd0299f8b6" width="300" /> 
