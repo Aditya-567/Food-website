@@ -8,6 +8,6 @@ This mobile-responsive food ordering app allows users to browse a variety of foo
 <p align="center">
   <img src="https://github.com/Aditya-567/Food-wesite/assets/106132841/ee7bd240-529d-4ea6-b8b8-8f861c217f09" width="300" />
   <img src="https://github.com/Aditya-567/Food-wesite/assets/106132841/c1168e53-9a7d-4ad9-854e-5f8fa8fc1b27" width="300" /> 
-  <img src="https://github.com/Aditya-567/Food-wesite/assets/106132841/b38a6b67-ba59-48ef-bf6b-aa319d6d8ea0" width="300" />
+  <img src="https://github.com/Aditya-567/Food-wesite/assets/106132841/4f894233-840c-424c-aa92-f2ebf624658f" width="300" />
 </p>
 
