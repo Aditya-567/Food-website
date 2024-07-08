@@ -73,7 +73,7 @@ const FoodListPage = ({ addToCart }) => {
     }, [searchTerm, activeButton, distance]);
 
     return (
-        <>
+        <div className='m-2'>
             <Header />
             <div className="p-4 ">
                 <h2 className="text-3xl font-semibold mb-4">Find good<br /> Food around you</h2>
@@ -94,13 +94,13 @@ const FoodListPage = ({ addToCart }) => {
                     <button className={`bg-${activeButton === 'hotSale' ? 'green-400' : 'gray-200'} text-black p-2 rounded-2xl text-[12px]`} onClick={() => handleButtonClick('hotSale')}>Hot Sale</button>
                     <button className={`bg-${activeButton === 'popularity' ? 'green-400' : 'gray-200'} text-black p-2 rounded-2xl text-[12px]`} onClick={() => handleButtonClick('popularity')}>Popularity</button>
                 </div>
-                <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-6 lg:grid-cols-12 ">
+                <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-6 lg:grid-cols-12 gap-1 ">
                     {filteredFoodItems.map((item) => (
                         <FoodItem key={item.id} item={item} addToCart={addToCart} />
                     ))}
                 </div>
             </div>
-        </>
+        </div>
     );
 };
 
